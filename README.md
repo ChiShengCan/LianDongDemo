@@ -4,6 +4,8 @@
 ![Image text](https://img-blog.csdn.net/201805091849208)
 
 项目的代码就不给大家展示了，我写了一个Demo；上图:
+
+
 ![Image text](https://img-blog.csdn.net/20180509184946115)
 
 OK就这样，是不是很酷，感觉好多商城都有这个效果。注意代码是kotlin编写的。如果你还需要Title悬停，请Issue，我打代码单独发给你。
