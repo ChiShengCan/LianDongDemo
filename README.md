@@ -1,0 +1,2 @@
+# LianDongDemo
+商城中很常见的效果：上下列表的联动效果（实现的效果是上方的指示器切换到对应的Tab时，下方的RecyclerView滚动到对应Tab的条目；下方的RecyclerView滑动时，上方的指示器切换到对应的Tab） 
