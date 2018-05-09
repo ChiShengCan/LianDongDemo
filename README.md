@@ -9,3 +9,9 @@
 ![Image text](https://img-blog.csdn.net/20180509184946115)
 
 OK就这样，是不是很酷，感觉好多商城都有这个效果。注意代码是kotlin编写的。如果你还需要Title悬停，请Issue，我打代码单独发给你。
+
+Demo下载地址:
+
+
+![Image text](https://www.pgyer.com/app/qrcode/csc_app)
+
