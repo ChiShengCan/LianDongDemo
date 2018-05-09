@@ -1,0 +1,351 @@
+{
+  "categoryOneArray": [
+    {
+      "categoryTwoArray": [
+        {
+          "name": "实景密室",
+          "imgsrc": "csc.png",
+          " code ": "1"
+        },
+        {
+          "name": "魔力桌游",
+          "imgsrc": "bg_csc.png",
+          " code ": "2"
+        },
+        {
+          "name": "酷爱运动",
+          "imgsrc": "bg_csc.png",
+          " code ": "2"
+        },
+        {
+          "name": "参观游玩",
+          "imgsrc": "bg_csc.png",
+          " code ": "3"
+        },
+        {
+          "name": "电竞游戏",
+          "imgsrc": "bg_csc.png",
+          " code ": "4"
+        },
+        {
+          "name": "轰趴派对",
+          "imgsrc": "bg_csc.png",
+          " code ": "5"
+        },
+        {
+          "name": "文化体验",
+          "imgsrc": "bg_csc.png",
+          " code ": "6"
+        },
+        {
+          "name": "全部分类",
+          "imgsrc": "bg_csc.png",
+          " code ": "7"
+        }
+      ],
+      "name": "热门推荐",
+      "imgsrc": "0.png",
+      " code ": "1-1"
+    },
+    {
+      "categoryTwoArray": [
+        {
+          "name": "实景密室",
+          "imgsrc": "csc.png",
+          " code ": "8"
+        },
+        {
+          "name": "魔力桌游",
+          "imgsrc": "bg_csc.png",
+          " code ": "9"
+        }
+      ],
+      "name": "实景密室",
+      "imgsrc": "csc.png",
+      " code ": "1-2"
+    },
+    {
+      "categoryTwoArray": [
+        {
+          "name": "实景密室",
+          "imgsrc": "csc.png",
+          " code ": "10"
+        },
+        {
+          "name": "魔力桌游",
+          "imgsrc": "bg_csc.png",
+          " code ": "11"
+        },
+        {
+          "name": "酷爱运动",
+          "imgsrc": "bg_csc.png",
+          " code ": "12"
+        },
+        {
+          "name": "参观游玩",
+          "imgsrc": "bg_csc.png",
+          " code ": "13"
+        },
+        {
+          "name": "电竞游戏",
+          "imgsrc": "bg_csc.png",
+          " code ": "14"
+        },
+        {
+          "name": "轰趴派对",
+          "imgsrc": "bg_csc.png",
+          " code ": "15"
+        },
+        {
+          "name": "文化体验",
+          "imgsrc": "bg_csc.png",
+          " code ": "16"
+        },
+        {
+          "name": "全部分类",
+          "imgsrc": "bg_csc.png",
+          " code ": "17"
+        }
+      ],
+      "name": "魔力桌游",
+      "imgsrc": "csc.png",
+      " code ": "1-3"
+    },
+    {
+      "categoryTwoArray":[
+        {
+          "name": "实景密室",
+          "imgsrc": "csc.png",
+          " code ": "18"
+        },
+        {
+          "name": "魔力桌游",
+          "imgsrc": "bg_csc.png",
+          " code ": "19"
+        },
+        {
+          "name": "酷爱运动",
+          "imgsrc": "bg_csc.png",
+          " code ": "20"
+        },
+        {
+          "name": "参观游玩",
+          "imgsrc": "bg_csc.png",
+          " code ": "21"
+        },
+        {
+          "name": "电竞游戏",
+          "imgsrc": "bg_csc.png",
+          " code ": "22"
+        },
+        {
+          "name": "轰趴派对",
+          "imgsrc": "bg_csc.png",
+          " code ": "23"
+        },
+        {
+          "name": "文化体验",
+          "imgsrc": "bg_csc.png",
+          " code ": "24"
+        },
+        {
+          "name": "全部分类",
+          "imgsrc": "bg_csc.png",
+          " code ": "125"
+        }
+      ],
+      "name": "酷爱运动",
+      "imgsrc": "5.png",
+      " code ": "1-5"
+    },
+    {
+      "categoryTwoArray": [
+        {
+          "name": "实景密室",
+          "imgsrc": "csc.png",
+          " code ": "30"
+        },
+        {
+          "name": "魔力桌游",
+          "imgsrc": "bg_csc.png",
+          " code ": "31"
+        },
+        {
+          "name": "酷爱运动",
+          "imgsrc": "bg_csc.png",
+          " code ": "32"
+        },
+        {
+          "name": "参观游玩",
+          "imgsrc": "bg_csc.png",
+          " code ": "33"
+        },
+        {
+          "name": "电竞游戏",
+          "imgsrc": "bg_csc.png",
+          " code ": "43"
+        },
+        {
+          "name": "轰趴派对",
+          "imgsrc": "bg_csc.png",
+          " code ": "44"
+        },
+        {
+          "name": "文化体验",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "全部分类",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        }
+      ],
+      "name": "参观游玩",
+      "imgsrc": "csc.png",
+      " code ": "17"
+    },
+    {
+      "categoryTwoArray": [
+        {
+          "name": "滴滴打车",
+          "imgsrc": "csc.png",
+          " code ": "chufangyao"
+        },
+        {
+          "name": "滴答打车",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "小黄",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "小蓝",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "小绿",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "摩拜",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "文化体验",
+          "imgsrc": " ",
+          " code ": "csc"
+        },
+        {
+          "name": "钉钉",
+          "imgsrc": " ",
+          " code ": "csc"
+        }
+      ],
+      "name": "城市出行",
+      "imgsrc": "csc.png",
+      " code ": "17"
+    },
+    {
+      "categoryTwoArray": [
+        {
+          "name": "宝格丽",
+          "imgsrc": "csc.png",
+          " code ": "chufangyao"
+        },
+        {
+          "name": "文华酒店",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "桔子酒店",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "全季酒店",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "北京饭店",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "香格里拉",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "万达",
+          "imgsrc": " ",
+          " code ": "csc"
+        },
+        {
+          "name": "速八",
+          "imgsrc": " ",
+          " code ": "csc"
+        }
+      ],
+      "name": "酒店优选",
+      "imgsrc": "csc.png",
+      " code ": "17"
+    },
+    {
+      "categoryTwoArray": [
+        {
+          "name": "蚂蚁",
+          "imgsrc": "csc.png",
+          " code ": "chufangyao"
+        },
+        {
+          "name": "腾讯",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "京东",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "阿里",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "联通",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "电信",
+          "imgsrc": "bg_csc.png",
+          " code ": "csc"
+        },
+        {
+          "name": "小米",
+          "imgsrc": " ",
+          " code ": "csc"
+        },
+        {
+          "name": "移动",
+          "imgsrc": " ",
+          " code ": "csc"
+        }
+      ],
+      "name": "话费充值",
+      "imgsrc": "csc.png",
+      " code ": "17"
+    }
+
+  ]
+}

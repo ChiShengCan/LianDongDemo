@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="92dp"
+    android:layout_height="92dp"
+    android:gravity="center"
+    android:id="@+id/content">
+    <ImageView
+        android:scaleType="centerCrop"
+        android:src="@color/colorPrimaryDark"
+        android:id="@+id/ivAvatar"
+        android:layout_width="60dp"
+        android:layout_height="60dp"/>
+
+    <TextView
+        android:id="@+id/tvContent"
+        android:layout_width="61dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/dp_6"
+        android:gravity="center"
+        android:maxLines="1"
+        android:text="分类名称"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/sp_12"/>
+
+</LinearLayout>

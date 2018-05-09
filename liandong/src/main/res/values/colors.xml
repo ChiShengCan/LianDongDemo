@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffd845</color>
+    <color name="colorPrimaryDark">#ffd845</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--指示器选中颜色-->
+    <color name="buttonSelectColor">#ffd845</color>
+</resources>
